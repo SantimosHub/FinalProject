@@ -1,0 +1,11 @@
+2024-03-&d 12:30:1711186202 INFO ====== WebDriver manager ======
+2024-03-&d 12:30:1711186202 INFO Get LATEST chromedriver version for google-chrome
+2024-03-&d 12:30:1711186202 INFO Get LATEST chromedriver version for google-chrome
+2024-03-&d 12:30:1711186202 INFO Driver [/home/sant/.wdm/drivers/chromedriver/linux64/123.0.6312.58/chromedriver-linux64/chromedriver] found in cache
+2024-03-&d 12:30:1711186205 INFO Enter login 
+2024-03-&d 12:30:1711186205 INFO Enter password 
+2024-03-&d 12:30:1711186205 INFO Click login button 
+2024-03-&d 12:30:1711186208 INFO Hello, Batruha
+2024-03-&d 12:30:1711186208 INFO Click "About" button
+2024-03-&d 12:30:1711186211 INFO About Page is loaded, title is visible
+2024-03-&d 12:30:1711186211 INFO About Page title has 32px font size
